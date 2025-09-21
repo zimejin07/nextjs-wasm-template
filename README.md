@@ -1,4 +1,4 @@
-# 🧠 Next.js 15 + Rust + WASM + Tailwind Template
+# Next.js 15 + Rust + WASM + Tailwind Template
 
 This is a boilerplate for frontend engineers building AI/web apps using:
 
@@ -30,7 +30,7 @@ npm run dev
 
 ---
 
-## 🧠 Goal
+## Goal
 
 Use Next.js for UI/UX and WASM for all heavy logic, e.g. keyword extraction, summarization, and AI preprocessing.
 
